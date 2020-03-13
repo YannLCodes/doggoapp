@@ -6,12 +6,12 @@ import { UsApi } from './services/UsApi';
 
 function App() {
 
-  UsApi();
-  {/*<UsApi/>*/}
+  
 
   return (
     <div className="App">
-      Stuff
+      Hello
+	  	<UsApi />
     </div>
   );
 }
