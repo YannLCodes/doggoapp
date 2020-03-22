@@ -5,7 +5,7 @@ export const UsApi = () => {
 	const apik = "Qe5ddre98VQQC8vLpY-fXCVGkwOCmDr-eVKZbEevlDQ";
 	const apiUrl = "https://api.unsplash.com/photos/";
 	const randomUrl = "random/";
-	const shoobQuery = "query=bernese"
+	const shoobQuery = "query=samoyed"
 	const [item, setItem] = useState(null);
 	const [loading, setLoading] = useState(true);
 
